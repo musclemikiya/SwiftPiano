@@ -13,6 +13,21 @@
 		C58D29101A23694200EC4357 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C58D290F1A23694200EC4357 /* Images.xcassets */; };
 		C58D29131A23694200EC4357 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = C58D29111A23694200EC4357 /* LaunchScreen.xib */; };
 		C58D291F1A23694200EC4357 /* SwiftPianoTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C58D291E1A23694200EC4357 /* SwiftPianoTests.swift */; };
+		C58D293A1A2379D000EC4357 /* black.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C58D292A1A2379D000EC4357 /* black.jpg */; };
+		C58D293B1A2379D000EC4357 /* white.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C58D292B1A2379D000EC4357 /* white.jpg */; };
+		C58D293C1A2379D000EC4357 /* A#.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = C58D292D1A2379D000EC4357 /* A#.mp3 */; };
+		C58D293D1A2379D000EC4357 /* A.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = C58D292E1A2379D000EC4357 /* A.mp3 */; };
+		C58D293E1A2379D000EC4357 /* B.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = C58D292F1A2379D000EC4357 /* B.mp3 */; };
+		C58D293F1A2379D000EC4357 /* C#.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = C58D29301A2379D000EC4357 /* C#.mp3 */; };
+		C58D29401A2379D000EC4357 /* C3.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = C58D29311A2379D000EC4357 /* C3.mp3 */; };
+		C58D29411A2379D000EC4357 /* C4.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = C58D29321A2379D000EC4357 /* C4.mp3 */; };
+		C58D29421A2379D000EC4357 /* D#.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = C58D29331A2379D000EC4357 /* D#.mp3 */; };
+		C58D29431A2379D000EC4357 /* D.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = C58D29341A2379D000EC4357 /* D.mp3 */; };
+		C58D29441A2379D000EC4357 /* E.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = C58D29351A2379D000EC4357 /* E.mp3 */; };
+		C58D29451A2379D000EC4357 /* F#.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = C58D29361A2379D000EC4357 /* F#.mp3 */; };
+		C58D29461A2379D000EC4357 /* F.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = C58D29371A2379D000EC4357 /* F.mp3 */; };
+		C58D29471A2379D000EC4357 /* G#.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = C58D29381A2379D000EC4357 /* G#.mp3 */; };
+		C58D29481A2379D000EC4357 /* G.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = C58D29391A2379D000EC4357 /* G.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +51,21 @@
 		C58D29181A23694200EC4357 /* SwiftPianoTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SwiftPianoTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		C58D291D1A23694200EC4357 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		C58D291E1A23694200EC4357 /* SwiftPianoTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftPianoTests.swift; sourceTree = "<group>"; };
+		C58D292A1A2379D000EC4357 /* black.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = black.jpg; sourceTree = "<group>"; };
+		C58D292B1A2379D000EC4357 /* white.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = white.jpg; sourceTree = "<group>"; };
+		C58D292D1A2379D000EC4357 /* A#.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "A#.mp3"; sourceTree = "<group>"; };
+		C58D292E1A2379D000EC4357 /* A.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = A.mp3; sourceTree = "<group>"; };
+		C58D292F1A2379D000EC4357 /* B.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = B.mp3; sourceTree = "<group>"; };
+		C58D29301A2379D000EC4357 /* C#.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "C#.mp3"; sourceTree = "<group>"; };
+		C58D29311A2379D000EC4357 /* C3.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = C3.mp3; sourceTree = "<group>"; };
+		C58D29321A2379D000EC4357 /* C4.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = C4.mp3; sourceTree = "<group>"; };
+		C58D29331A2379D000EC4357 /* D#.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "D#.mp3"; sourceTree = "<group>"; };
+		C58D29341A2379D000EC4357 /* D.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = D.mp3; sourceTree = "<group>"; };
+		C58D29351A2379D000EC4357 /* E.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = E.mp3; sourceTree = "<group>"; };
+		C58D29361A2379D000EC4357 /* F#.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "F#.mp3"; sourceTree = "<group>"; };
+		C58D29371A2379D000EC4357 /* F.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = F.mp3; sourceTree = "<group>"; };
+		C58D29381A2379D000EC4357 /* G#.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "G#.mp3"; sourceTree = "<group>"; };
+		C58D29391A2379D000EC4357 /* G.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = G.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +107,7 @@
 		C58D29051A23694100EC4357 /* SwiftPiano */ = {
 			isa = PBXGroup;
 			children = (
+				C58D29281A2369D300EC4357 /* Resources */,
 				C58D29081A23694200EC4357 /* AppDelegate.swift */,
 				C58D290A1A23694200EC4357 /* ViewController.swift */,
 				C58D290C1A23694200EC4357 /* Main.storyboard */,
@@ -110,6 +141,44 @@
 				C58D291D1A23694200EC4357 /* Info.plist */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		C58D29281A2369D300EC4357 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				C58D29291A2379D000EC4357 /* image */,
+				C58D292C1A2379D000EC4357 /* sound */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		C58D29291A2379D000EC4357 /* image */ = {
+			isa = PBXGroup;
+			children = (
+				C58D292A1A2379D000EC4357 /* black.jpg */,
+				C58D292B1A2379D000EC4357 /* white.jpg */,
+			);
+			path = image;
+			sourceTree = "<group>";
+		};
+		C58D292C1A2379D000EC4357 /* sound */ = {
+			isa = PBXGroup;
+			children = (
+				C58D292D1A2379D000EC4357 /* A#.mp3 */,
+				C58D292E1A2379D000EC4357 /* A.mp3 */,
+				C58D292F1A2379D000EC4357 /* B.mp3 */,
+				C58D29301A2379D000EC4357 /* C#.mp3 */,
+				C58D29311A2379D000EC4357 /* C3.mp3 */,
+				C58D29321A2379D000EC4357 /* C4.mp3 */,
+				C58D29331A2379D000EC4357 /* D#.mp3 */,
+				C58D29341A2379D000EC4357 /* D.mp3 */,
+				C58D29351A2379D000EC4357 /* E.mp3 */,
+				C58D29361A2379D000EC4357 /* F#.mp3 */,
+				C58D29371A2379D000EC4357 /* F.mp3 */,
+				C58D29381A2379D000EC4357 /* G#.mp3 */,
+				C58D29391A2379D000EC4357 /* G.mp3 */,
+			);
+			path = sound;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -161,6 +230,7 @@
 				TargetAttributes = {
 					C58D29021A23694100EC4357 = {
 						CreatedOnToolsVersion = 6.1;
+						DevelopmentTeam = P75LYRU9H5;
 					};
 					C58D29171A23694200EC4357 = {
 						CreatedOnToolsVersion = 6.1;
@@ -192,9 +262,24 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C58D29451A2379D000EC4357 /* F#.mp3 in Resources */,
+				C58D29401A2379D000EC4357 /* C3.mp3 in Resources */,
+				C58D293F1A2379D000EC4357 /* C#.mp3 in Resources */,
+				C58D293B1A2379D000EC4357 /* white.jpg in Resources */,
+				C58D293D1A2379D000EC4357 /* A.mp3 in Resources */,
+				C58D29471A2379D000EC4357 /* G#.mp3 in Resources */,
+				C58D29481A2379D000EC4357 /* G.mp3 in Resources */,
+				C58D29431A2379D000EC4357 /* D.mp3 in Resources */,
 				C58D290E1A23694200EC4357 /* Main.storyboard in Resources */,
+				C58D29441A2379D000EC4357 /* E.mp3 in Resources */,
+				C58D293A1A2379D000EC4357 /* black.jpg in Resources */,
+				C58D29461A2379D000EC4357 /* F.mp3 in Resources */,
 				C58D29131A23694200EC4357 /* LaunchScreen.xib in Resources */,
+				C58D29421A2379D000EC4357 /* D#.mp3 in Resources */,
+				C58D293E1A2379D000EC4357 /* B.mp3 in Resources */,
+				C58D293C1A2379D000EC4357 /* A#.mp3 in Resources */,
 				C58D29101A23694200EC4357 /* Images.xcassets in Resources */,
+				C58D29411A2379D000EC4357 /* C4.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
